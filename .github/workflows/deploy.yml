@@ -20,7 +20,8 @@ jobs:
 
       - name: Build Script
         run: |
-          chmod +x ./build.sh  # Make sure the build script is executable
+          export TERM=xterm
+          chmod +x ./build.sh
           ./build.sh
 
       - name: Deploy to GitHub Pages
