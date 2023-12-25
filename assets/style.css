@@ -47,7 +47,8 @@
     /* accessing the colors defined inside the svg isn't possible when embedded as an image and i don't want to inline them, so this is the best i can do */
     header .logo,
     header ul li img,
-    h3 .icons img {
+    h3 .icons img,
+    .nutrition img{
         filter: invert() hue-rotate(180deg);
     }
 }
