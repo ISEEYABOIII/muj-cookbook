@@ -1,4 +1,4 @@
-$if(show_images_on_index)$<div class="entry">$endif$
+$if(show_images_on_index)$<a class="index-link" href="${it.htmlfile}"><div class="entry">$endif$
     $if(show_images_on_index)$
         <div class="servingsuggestion"$if(it.image)$style="background-image: url($it.image$);"$endif$></div>
     $endif$
@@ -14,10 +14,10 @@ $if(show_images_on_index)$<div class="entry">$endif$
             $if(it.bitter)$<img src="assets/tabler-icons/tabler-icon-coffee.svg" alt="$strings.bitter_label$">$endif$
             $if(it.umami)$<img src="assets/tabler-icons/tabler-icon-mushroom.svg" alt="$strings.umami_label$">$endif$
         </i>
-        <a href="${it.htmlfile}"><span>${it.title}</span></a>
+        <span>${it.title}</span>
         $if(it.original_title)$<em>$it.original_title$</em>$endif$
     </h3>
     $if(it.description)$
         <p>$it.description$</p>
     $endif$
-$if(show_images_on_index)$</div>$endif$
+$if(show_images_on_index)$</div></a>$endif$
