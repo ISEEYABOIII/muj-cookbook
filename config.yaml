@@ -1,7 +1,7 @@
 # Text shown on the index page.
 index_title: Mariánkova kuchařka
 index_description:
-  Sbírka mých oblíbených receptů, které dokážu uvařit i já, a to i když jsem na hulihladu.
+  Sbírka mých oblíbených receptů, které dokážu uvařit i já - a to i když jsem na hulihladu.
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
