@@ -2,6 +2,9 @@
 
 TIME_START=$(date +%s)
 
+# Set locale to UTF-8 to handle non-ASCII characters
+export LC_ALL=en_US.UTF-8
+
 # exit on errors
 set -e
 
@@ -79,15 +82,16 @@ for FILE in _recipes/*.md; do
         -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
 done
 
-status "Grouping metadata by category..."  # (yep, this is a right mess)
+status "Grouping metadata by category..."
 echo "{\"categories\": [" > _temp/index.json
-SEPARATOR_OUTER=""  # no comma before first list element (categories)
-SEPARATOR_INNER=""  # ditto (recipes per category)
-IFS=$'\n'           # tell for loop logic to split on newlines only, not spaces
+SEPARATOR_OUTER=""
+SEPARATOR_INNER=""
+IFS=$'\n'
 CATS="$(cat _temp/*.category.txt)"
 for CATEGORY in $(echo "$CATS" | cut -d" " -f2- | sort | uniq); do
     printf '%s' "$SEPARATOR_OUTER" >> _temp/index.json
-    CATEGORY_FAUX_URLENCODED="$(echo "$CATEGORY" | awk -f "_templates/technical/faux_urlencode.awk")"
+    # Use Python script for faux URL encoding
+    CATEGORY_FAUX_URLENCODED="$(echo "$CATEGORY" | python3 _templates/technical/faux_urlencode.py)"
 
     # some explanation on the next line and similar ones: this uses `tee -a`
     # instead of `>>` to append to two files instead of one, but since we don't
@@ -111,7 +115,7 @@ echo "]}" >> _temp/index.json
 
 status "Building recipe pages..."
 for FILE in _recipes/*.md; do
-    CATEGORY_FAUX_URLENCODED="$(cat "_temp/$(basename "$FILE" .md).category.txt" | cut -d" " -f2- | awk -f "_templates/technical/faux_urlencode.awk")"
+    CATEGORY_FAUX_URLENCODED="$(cat "_temp/$(basename "$FILE" .md).category.txt" | cut -d" " -f2- | python3 "_templates/technical/faux_urlencode.py")"
 
     # when running under GitHub Actions, all file modification dates are set to
     # the date of the checkout (i.e., the date on which the workflow was

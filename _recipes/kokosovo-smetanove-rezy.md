@@ -1,0 +1,74 @@
+---
+title: Kokosovo smetanový řez
+category: Sladké
+description: Mega jednoduchý ale hrozně dobrý řezy.
+image: 
+size: 16 porcí
+time: 25 minut
+favorite: ✓
+vegan: # ✓
+meat: # ✓
+spicy: # ✓
+sweet: ✓
+salty: # ✓
+sour: # ✓
+bitter: # ✓
+umami: # ✓
+---
+
+* `½ hrnku` cukr krystalu
+* `2ks` celé vejce
+* `1 hrnek` mléka
+* `2 hrnky` polohrubé mouky
+* `½ hrnku` rostlinného oleje
+* `1 balení` prášku do pečiva
+
+> **Ingredience na těsto**.
+
+---
+
+* `1 hrnek` strouhaného kokosu
+* `½ hrnku` cukr krupice
+* `1 balení` šlehačky
+
+> **Ingredience na posyp**.
+
+---
+
+> Předehřejeme troubu na `170°C`.
+
+---
+
+* `½ hrnku` cukr krystalu
+* `2ks` celé vejce
+
+> Utřeme vejce s krystalovým cukrem.
+
+---
+
+* `1 hrnek` mléka
+* `2 hrnky` polohrubé mouky
+* `½ hrnku` rostlinného oleje
+* `1 balení` prášku do pečiva
+
+> Přidáme mléko, polohrubou mouku s práškem do pečiva a olej.
+> Vše důkladně promícháme.
+> Vyleje na plech vyložený pečícím papírem.
+
+---
+
+* `1 hrnek` strouhaného kokosu
+* `½ hrnku` cukr krupice
+
+> Smícháme kokos a cukr v oddělené nadobě.
+> Posypeme směsí těsto.
+
+---
+
+> Pečeme `20 minut` nebo dozlatova na `170°C`.
+
+---
+
+> Hned po vyndání z trouby, je polijeme 33% šlehačkou.
+
+
