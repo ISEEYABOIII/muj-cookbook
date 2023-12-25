@@ -1,0 +1,31 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set your default branch here
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Set the Node.js version you need for your project
+
+      - name: Build Script
+        run: |
+          chmod +x ./build.sh  # Make sure the build script is executable
+          ./build.sh
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages  # The branch the action should deploy to.
+          folder: _site     # The folder the action should deploy.
+          token: ${{ secrets.GITHUB_TOKEN }}  # GitHub will automatically create this secret to use in your workflow.
