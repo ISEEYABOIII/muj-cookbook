@@ -1,48 +1,52 @@
 ---
 title: Wafle
 category: Pečení
-description: 
+description: Tradiční recept na domácí wafle, perfektní pro snídani nebo jako pochoutka k odpolední kávě.
 nutrition:
-  - 1909 kalorií
-  - 66.7 g cukru
-  - 77.85 g tuku
-  - 55.05 g proteinu
-image: 
-size: 12 porcí
+  - 1079 kalorií
+  - 171 g cukru
+  - 508 g tuku
+  - 31 g proteinu
+image: wafle.jpg
+size: 12 waflí
 time: 40 minut
-favorite: # ✓
-vegan: # ✓
-meat: # ✓
-spicy: # ✓
+favorite: # ✓ 
+vegan: # ✓ 
+meat: # ✓ 
+spicy: # ✓ 
 sweet: ✓
-salty: # ✓
+salty: # ✓ 
 sour: # ✓
 bitter: # ✓
 umami: # ✓
 ---
 
 * `2 hrnky` polohrubé mouky
-* `1 lžíčka` kypřícího prášku do pečiva
-* `3 lžíce` cukr krystalu
-* `1/4 hrnku` rostliného oleje
-* `1 a ½ hrnku` mléka
-* `3ks` celé vejce
+* `1 lžička` kypřícího prášku do pečiva
+* `3 lžíce` cukru krystalu
+* `¼ hrnku` oleje
+* `1,½ hrnku` mléka
+* `3ks` vejce (žloutky a bílky odděleně)
 
-* `½ hrnku` rostlinného oleje
-
-
-## **Ingredience na těsto**.
+## **Ingredience na těsto**
 
 ---
 
-> Smícháme v míse mouku, prášek do pečiva, cukr, olej a **3 žloutky**.
+* `2 hrnky` polohrubé mouky
+* `1 lžička` kypřícího prášku do pečiva
+* `3 lžíce` cukru krystalu
+* `¼ hrnku` oleje
+* `1,½ hrnku` mléka
+* `3ks` žloutků
+
+> Smícháme mouku, prášek, cukr, olej, mléko, a `3 žloutky`.
 
 ---
 
-> Z bílků uděláme sníh a ten přidáme ke zbytku.
+* `3ks` bílků
+
+> Z `bílků` uděláme tuhý sníh a ten opatrně přidáme do směsi.
 
 ---
 
-> Směs rovnou lejeme do waflovače.
-
-
+> Pečeme v předehřátém vaflovači podle potřeby.

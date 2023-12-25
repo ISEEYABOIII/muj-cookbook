@@ -4,9 +4,9 @@ category: Pečení
 description: Mega jednoduchý ale hrozně dobrý řezy.
 nutrition:
   - 4391 kalorií
-  - 329.8 g cukru
-  - 231.9 g tuku
-  - 54.7 g proteinu
+  - 329 g cukru
+  - 231 g tuku
+  - 54 g proteinu
 image: kokosovo-smetanove-rezy.jpg
 size: 16 porcí
 time: 25 minut
@@ -28,15 +28,15 @@ umami: # ✓
 * `½ hrnku` rostlinného oleje
 * `1 balení` prášku do pečiva
 
-## **Ingredience na těsto**.
+## **Ingredience na těsto**
 
 ---
 
 * `1 hrnek` strouhaného kokosu
 * `½ hrnku` cukr krupice
-* `1 balení` šlehačky
+* `1 balení` 33% šlehačky
 
-## **Ingredience na posyp**.
+## **Ingredience na posyp**
 
 ---
 
@@ -58,6 +58,9 @@ umami: # ✓
 
 > Přidáme mléko, polohrubou mouku s práškem do pečiva a olej.
 > Vše důkladně promícháme.
+
+---
+
 > Vyleje na plech vyložený pečícím papírem.
 
 ---
@@ -73,6 +76,8 @@ umami: # ✓
 > Pečeme `20 minut` nebo dozlatova na `170°C`.
 
 ---
+
+* `1 balení` šlehačky
 
 > Hned po vyndání z trouby, zalijeme 33% šlehačkou.
 
