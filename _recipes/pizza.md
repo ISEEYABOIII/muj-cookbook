@@ -1,6 +1,6 @@
 ---
 title: Pizza
-category: Pečení
+category: Specialitky
 description: Domácí pizza bez použití kamene.
 source: https://youtu.be/npbj6Z-JL8U
 nutrition:
@@ -92,5 +92,3 @@ umami: # ✓
 ---
 
 > Pečte další 3 minuty, dokud není sýr roztavený a zlatavý. Nechte chvíli odpočinout před podáváním.
-
----

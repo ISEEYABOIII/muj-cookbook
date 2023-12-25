@@ -1,6 +1,6 @@
 ---
 title: Wafle
-category: Pečení
+category: Pečené
 description: Tradiční recept na domácí wafle, perfektní na snídani.
 nutrition:
   - 1079 kcal

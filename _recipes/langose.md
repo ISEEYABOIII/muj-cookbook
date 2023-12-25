@@ -1,6 +1,6 @@
 ---
 title: Langoše jako ze stánku
-category: Pečení
+category: Smažené
 description: Tradiční langoše bez použití vajec.
 nutrition:
   - 373 kcal
