@@ -435,7 +435,7 @@ a:hover {
 
 a.index-link {
     text-decoration: none !important;
-    color: white !important;
+    color: var(--foreground) !important;
 }
 
 footer {

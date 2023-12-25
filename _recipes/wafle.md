@@ -7,7 +7,7 @@ nutrition:
   - 171g cukru
   - 508g tuku
   - 31g proteinu
-image: wafle.jpg
+image: tiramisu.jpg
 size: 12 waflí
 time: 40 minut
 favorite: # ✓ 
