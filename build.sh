@@ -64,6 +64,13 @@ for FILE in _recipes/*; do
     x cp "$FILE" _site/
 done
 
+# Create .htaccess file with provided rewrite rules
+status "Creating .htaccess file..."
+echo 'RewriteEngine on' > _site/.htaccess
+echo 'RewriteCond %{REQUEST_FILENAME} !-d' >> _site/.htaccess
+echo 'RewriteCond %{REQUEST_FILENAME}\.html -f' >> _site/.htaccess
+echo 'RewriteRule ^(.*)$ $1.html' >> _site/.htaccess
+
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
     # extract category name for each recipe, set basename to avoid having to
