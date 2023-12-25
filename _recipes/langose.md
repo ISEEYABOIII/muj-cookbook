@@ -3,10 +3,10 @@ title: Langoše jako ze stánku
 category: Pečení
 description: Tradiční langoše bez použití vajec.
 nutrition:
-  - 373.12 kalorií
-  - 45.04 g cukru
-  - 10.3 g tuku
-  - 20.39 g proteinu
+  - 373 kcal
+  - 45g cukru
+  - 10g tuku
+  - 20g proteinu
 image: langose.jpg
 size: 15 langošů
 time: 1 hodina

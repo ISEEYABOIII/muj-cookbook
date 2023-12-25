@@ -3,10 +3,10 @@ title: Kokosovo smetanový řez
 category: Pečení
 description: Mega jednoduchý ale hrozně dobrý řezy.
 nutrition:
-  - 4391 kalorií
-  - 329 g cukru
-  - 231 g tuku
-  - 54 g proteinu
+  - 4391 kcal
+  - 329g cukru
+  - 231g tuku
+  - 54g proteinu
 image: kokosovo-smetanove-rezy.jpg
 size: 16 porcí
 time: 25 minut

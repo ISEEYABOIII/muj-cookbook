@@ -1,12 +1,12 @@
 ---
 title: Wafle
 category: Pečení
-description: Tradiční recept na domácí wafle, perfektní pro snídani nebo jako pochoutka k odpolední kávě.
+description: Tradiční recept na domácí wafle, perfektní na snídani.
 nutrition:
-  - 1079 kalorií
-  - 171 g cukru
-  - 508 g tuku
-  - 31 g proteinu
+  - 1079 kcal
+  - 171g cukru
+  - 508g tuku
+  - 31g proteinu
 image: wafle.jpg
 size: 12 waflí
 time: 40 minut

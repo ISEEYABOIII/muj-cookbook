@@ -3,10 +3,10 @@ title: Citronové muffiny
 category: Pečení
 description: Rychlé a jednoduché, ale opravdu výborné muffiny.
 nutrition:
-  - 1878.89 kalorií
-  - 792.47 g cukru
-  - 109.38 g tuku
-  - 22.73 g proteinu
+  - 1878 kcal
+  - 792g cukru
+  - 109g tuku
+  - 22g proteinu
 image: citronove-muffiny.jpg
 size: 16 malých muffinů
 time: 30 minut
