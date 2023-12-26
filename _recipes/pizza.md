@@ -1,7 +1,7 @@
 ---
-title: Pizza
+title: Pizza v troubě bez kamene
 category: Specialitky
-description: Domácí pizza bez použití kamene.
+description: Tak tenhle recept vytasíš jenom když by měla přijet tvoje stará.
 source: https://youtu.be/npbj6Z-JL8U
 nutrition:
   - 3889 kcal

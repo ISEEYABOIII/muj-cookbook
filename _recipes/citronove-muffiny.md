@@ -1,7 +1,7 @@
 ---
 title: Citronové muffiny
 category: Pečené
-description: Rychlé a jednoduché, ale opravdu výborné muffiny.
+description: Když je jíš tak si můžeš představovat že tě někdo přecejenom má rád.
 nutrition:
   - 1878 kcal
   - 792g cukru

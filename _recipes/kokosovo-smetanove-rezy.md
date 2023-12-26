@@ -1,7 +1,7 @@
 ---
 title: Kokosovo smetanový řez
 category: Pečené
-description: Velmi jednoduchý ale lahodné řezy pro milovníky kokosu.
+description: Za málo peněz a času hodně muziky.
 nutrition:
   - 4391 kcal
   - 329g cukru

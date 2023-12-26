@@ -46,7 +46,7 @@ umami: ✓
 * `1 l` žloutků
 * `110 g` cukr krystalu
 * `4 balení` vanilkového cukru
-* `1` vanilkový lusk
+* `1ks` vanilkový lusk
 
 > Nejprve vyšlehejte žloutky s krystalem, vanilkovým cukrem a semínky z vanilkového lusku.
 
@@ -82,4 +82,4 @@ umami: ✓
 
 ---
 
-> Rozdávejte opravdu až na Vánoce, jinak to všichni vychlastají a budete to muset vařit znovu.
+> **Rozdávejte opravdu až na Vánoce, jinak to všichni vychlastají a budete to muset vařit znovu.**
