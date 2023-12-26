@@ -57,6 +57,7 @@ umami: # ✓
 * `1 balení` prášku do pečiva
 
 > Přidáme mléko, polohrubou mouku s práškem do pečiva a olej.
+
 > Vše důkladně promícháme.
 
 ---
@@ -69,6 +70,7 @@ umami: # ✓
 * `½ hrnku` cukr krupice
 
 > Smícháme kokos a cukr v oddělené nadobě.
+
 > Posypeme směsí těsto.
 
 ---

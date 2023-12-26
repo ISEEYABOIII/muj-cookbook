@@ -41,12 +41,15 @@ umami: #
 ---
 
 > Po 3 hodinách bude těsto nadýchané a poseté bublinkami. 
+
 > Přeneste ho na dobře pomoučněnou plochu a těsto posypte trochou mouky. 
+
 > Pomocí škrabky těsto 10-12krát přeložte a vytvarujte do hrubé koule.
 
 ---
 
 > Vložte ho do mísy vyložené pergamenovým papírem (ne voskovým) a přikryjte utěrkou. 
+
 > Necháme stát na kuchyňské lince asi 35 minut.
 
 ---
@@ -60,5 +63,7 @@ umami: #
 ---
 
 > Po 30 minutách pečení odeberte pečicí papír zpod bochíku. 
+
 > Vraťte do trouby bez poklice a pečte dalších 10-15 minut. 
+
 > Zabalte bochník do lehce namokřené utěrky na nejméně 15 minut.

@@ -53,8 +53,11 @@ umami: # ✓
 * `1ks` citronu (kůra i šťáva)
 
 > V jiné míse sešleháme máslo a cukr.
+
 > Pak přidáme vejce.
+
 > Na konec přidáme směs mouky, mléko, citronovou kůru a šťávu.
+
 > Vše důkladně promícháme.
 
 ---
