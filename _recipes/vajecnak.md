@@ -22,9 +22,39 @@ bitter: # ✓
 umami: ✓
 ---
 
+* `1 l` žloutků
+* `110 g` cukr krystalu
+* `4 balení` vanilkového cukru
+* `1` vanilkový lusk
+* `2 l` 33% smetany
+* `2 l` plnotučného mléka
+* `2 kg` salka
+* `2 l` rumu
+
+## **Ingredience**
+
+---
+
+* Ponorný teploměr
+* 9 litrový hrnec
+* dostatek láhví
+
+## **Potřebné náčiní**
+
+---
+
+* `1 l` žloutků
+* `110 g` cukr krystalu
+* `4 balení` vanilkového cukru
+* `1` vanilkový lusk
+
 > Nejprve vyšlehejte žloutky s krystalem, vanilkovým cukrem a semínky z vanilkového lusku.
 
 ---
+
+* `2 l` 33% smetany
+* `2 l` plnotučného mléka
+* `2 kg` salka
 
 > Směs dejte za studena do hrnce, kde rovnou přidáte mléko, smetanu a salko.
 
@@ -38,11 +68,13 @@ umami: ✓
 
 ---
 
-> Nastavte si ponorný teploměr na 50°C. Při dosažení této teploty přidejte rum.
+* `2 l` rumu
+
+> Nastavte si ponorný teploměr na `50°C`. Při dosažení této teploty přidejte rum.
 
 ---
 
-> Teploměr nastavte na 68°C a míchejte, dokud není tato teplota dosažena. Poté sundejte směs z ohně a míchejte ještě chvíli, aby se trochu ochladila.
+> Teploměr nastavte na `68°C` a míchejte, dokud není tato teplota dosažena. Poté sundejte směs z ohně a míchejte ještě chvíli, aby se trochu ochladila.
 
 ---
 
