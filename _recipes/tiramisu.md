@@ -1,7 +1,7 @@
 ---
 title: Něco jako tiramisu
 category: Dezert
-description: Dezert inspirovaný Tiramisu s krémovou náplní a piškotovým základem, ochucený rumem a kakaem.
+description: Mňam mňam rumík brumík.
 nutrition:
 - ___ kcal
 - ___g cukru

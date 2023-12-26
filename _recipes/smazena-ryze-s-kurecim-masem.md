@@ -3,10 +3,10 @@ title: Smažená rýže s kuřecím masem
 category: Smažené
 description: Hrozně dobrej recept kterýho jsem se už hrozně přežral. :(
 nutrition:
-- ___ kcal
-- ___g cukru
-- ___g tuku
-- ___g proteinu
+- 1800 kcal
+- 3g cukru
+- 27g tuku
+- 138g proteinu
 image: smazena-ryze-s-kurecim-masem.jpg
 size: 5 porcí
 time: 30 minut
