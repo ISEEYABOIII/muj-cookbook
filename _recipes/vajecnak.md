@@ -29,7 +29,7 @@ umami: ✓
 * `2 l` 33% smetany
 * `2 l` plnotučného mléka
 * `2 kg` salka
-* `2 l` rumu
+* `2 l` bílého rumu
 
 ## **Ingredience**
 
@@ -68,7 +68,7 @@ umami: ✓
 
 ---
 
-* `2 l` rumu
+* `2 l` bílého rumu
 
 > Nastavte si ponorný teploměr na `50°C`. Při dosažení této teploty přidejte rum.
 
