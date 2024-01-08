@@ -2,7 +2,10 @@
 <html lang="$lang$">
 <head>
     ${head.partial.html()}
-    <title>$if(index_title)$$index_title$ – $endif$mňam</title>
+    <title>$if(index_title)$$index_title$$endif$</title>
+    <meta property="og:image" content="https://cook.marianmares.cz/assets/background.png">
+    <meta property="og:description" content="$index_description$">
+    <meta property="og:url" content="cook.marianmares.cz">
 </head>
 <body>
     <main class="index">
