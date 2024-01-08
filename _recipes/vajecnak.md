@@ -4,10 +4,10 @@ category: Nápoje
 description: Idealní pro alkoholoiky, kteří se chtějí před Vánocemi trochu zklidnit.
 source: https://www.instagram.com/reel/C03TsRasKTr/
 nutrition:
-- 7200 kcal
-- 1220g cukru
-- 1190g tuku
-- 190g proteinu
+- 21274 kcal
+- 1640g cukru
+- 1430g tuku
+- 443g proteinu
 image: vajecnak.jpg
 size: 9 litrů 
 time: 1,5 hodina
