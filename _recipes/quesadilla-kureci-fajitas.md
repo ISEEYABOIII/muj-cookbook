@@ -1,7 +1,7 @@
 ---
 title: Quesadilla - kuřecí Fajitas s domácí salsou
 category: Smažené
-description: 
+description: Je to mrdačka, ale stojí to za to.
 nutrition:
 - 2014kcal
 - 12g cukru
