@@ -71,6 +71,12 @@ echo 'RewriteCond %{REQUEST_FILENAME} !-d' >> _site/.htaccess
 echo 'RewriteCond %{REQUEST_FILENAME}\.html -f' >> _site/.htaccess
 echo 'RewriteRule ^(.*)$ $1.html' >> _site/.htaccess
 
+# Create robots.txt file
+status "Creating robots.txt file..."
+echo 'User-agent: *' > _site/robots.txt
+echo 'Disallow:' >> _site/robots.txt
+
+
 status "Extracting metadata..."
 for FILE in _recipes/*.md; do
     # extract category name for each recipe, set basename to avoid having to
