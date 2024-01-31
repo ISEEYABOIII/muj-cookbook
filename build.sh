@@ -66,10 +66,12 @@ done
 
 # Create .htaccess file with provided rewrite rules
 status "Creating .htaccess file..."
-echo 'RewriteEngine on' > _site/.htaccess
-echo 'RewriteCond %{REQUEST_FILENAME} !-d' >> _site/.htaccess
-echo 'RewriteCond %{REQUEST_FILENAME}\.html -f' >> _site/.htaccess
-echo 'RewriteRule ^(.*)$ $1.html' >> _site/.htaccess
+{
+    echo 'RewriteEngine on'
+    echo 'RewriteCond %{REQUEST_FILENAME} !-d'
+    echo 'RewriteCond %{REQUEST_FILENAME}.html -f'
+    echo 'RewriteRule ^([^\.]+)$ $1.html [NC,L]'
+} > _site/.htaccess
 
 # Create robots.txt file
 status "Creating robots.txt file..."

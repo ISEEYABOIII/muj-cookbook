@@ -34,7 +34,7 @@ umami: # ✓
 * `dle potřeby` kečup
 * `2 stroužky` česneku
 * `80ml` rostliného oleje
-* `100 g` strouhaného sýru
+* `200 g` strouhaného sýru
 
 ## **Podává se s**
 
