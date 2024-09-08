@@ -7,7 +7,7 @@ nutrition:
 - ___g cukru
 - ___g tuku
 - ___g proteinu
-image: tiramisu.jpg
+image: images/tiramisu.jpg
 size: ___ porcí 
 time: ___
 favorite: # ✓

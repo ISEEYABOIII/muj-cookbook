@@ -7,7 +7,7 @@ nutrition:
 - 
 - 
 - 
-image: domaci-super-kysele-zizalky.jpg
+image: images/domaci-super-kysele-zizalky.jpg
 source: https://www.instagram.com/reel/C2THL4PPf1-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 size: 100 porcí 
 time: 4 hodina

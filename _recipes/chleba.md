@@ -8,7 +8,7 @@ nutrition:
   - 0g cukru
   - 6g tuku
   - 12g proteinu
-image: chleba.jpg
+image: images/chleba.jpg
 size: 1 chléb
 time: 4 hodiny
 favorite: # ✓

@@ -7,7 +7,7 @@ nutrition:
   - 792g cukru
   - 109g tuku
   - 22g proteinu
-image: citronove-muffiny.jpg
+image: images/citronove-muffiny.jpg
 size: 16 malých muffinů
 time: 30 minut
 favorite: # ✓

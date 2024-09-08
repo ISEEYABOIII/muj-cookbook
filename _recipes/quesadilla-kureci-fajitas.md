@@ -7,7 +7,7 @@ nutrition:
 - 12g cukru
 - 120g tuku
 - 102g proteinu
-image: quesadilla-kureci-fajitas.jpg
+image: images/quesadilla-kureci-fajitas.jpg
 size: 5 porcí 
 time: 1,5 hodina
 favorite: # ✓
