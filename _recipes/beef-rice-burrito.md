@@ -7,7 +7,7 @@ nutrition:
   - 34g Cukr
   - 12g Tuk
   - 40g Protein
-image: images/beef-rice-burrito.jpg
+image: beef-rice-burrito.jpg
 size: 6 porcí
 time: 40 minut
 favorite: # ✓

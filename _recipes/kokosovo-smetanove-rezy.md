@@ -7,7 +7,7 @@ nutrition:
   - 329g cukru
   - 231g tuku
   - 54g proteinu
-image: images/kokosovo-smetanove-rezy.jpg
+image: kokosovo-smetanove-rezy.jpg
 size: 16 porcí
 time: 25 minut
 favorite: ✓

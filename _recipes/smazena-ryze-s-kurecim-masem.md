@@ -7,7 +7,7 @@ nutrition:
   - 3g cukru
   - 27g tuku
   - 138g proteinu
-image: images/smazena-ryze-s-kurecim-masem.jpg
+image: smazena-ryze-s-kurecim-masem.jpg
 size: 5 porcí
 time: 30 minut
 favorite: ✓

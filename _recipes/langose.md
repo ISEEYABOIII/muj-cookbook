@@ -7,7 +7,7 @@ nutrition:
   - 45g cukru
   - 10g tuku
   - 20g proteinu
-image: images/langose.jpg
+image: langose.jpg
 size: 15 langošů
 time: 1 hodina
 favorite: # ✓

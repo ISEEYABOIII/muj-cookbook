@@ -8,7 +8,7 @@ nutrition:
 - 1640g cukru
 - 1430g tuku
 - 443g proteinu
-image: images/vajecnak.jpg
+image: vajecnak.jpg
 size: 9 litrů 
 time: 1,5 hodina
 favorite: ✓

@@ -8,7 +8,7 @@ nutrition:
   - 106g cukru
   - 2440g tuku
   - 2080g proteinu
-image: images/pizza.jpg
+image: pizza.jpg
 size: 4 pizzy
 time: 4 dny
 favorite: # ✓

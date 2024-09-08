@@ -7,7 +7,7 @@ nutrition:
   - 171g cukru
   - 508g tuku
   - 31g proteinu
-image: images/wafle.jpg
+image: wafle.jpg
 size: 12 waflí
 time: 40 minut
 favorite: # ✓ 

@@ -2,7 +2,7 @@
 title: Punčový dort
 category: Sladké
 description: Lahodný punčový dort s rumovou příchutí.
-image: images/puncovy-rez.jpg
+image: puncovy-rez.jpg
 nutrition:
   - 400 kcal
   - 50 g cukru
