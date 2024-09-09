@@ -1,7 +1,7 @@
 ---
 title: Hovězí burrito s ranch omáčkou
 category: Grilované
-description: Snadný recept na burrito s mletým hovězím, rýží, sýrem a domácí pikantní jogurtovou omáčkou. Ideální pro přípravu předem.
+description: Je to uplně crazy jak dobrý to je, stokrát lepší než drátem do oka!!!
 nutrition:
   - 640 Kalorií
   - 34g Cukr
@@ -25,7 +25,9 @@ umami: ✓
 * `600g` Mletého hovězího masa
 * `200g` Jasmínové dlouhozrnné rýže (neuvarená váha)
 * `6 plátků` Sýru (Gouda nebo Cheddar)
-* `Sůl, pepř, sušený česnek, chilli paprika, gyros koření`
+* `dle chuti` Gyros koření
+* `špetka` Sušeného česneku
+* `špetka` Chilli
 
 ## **Ingredience na burrito**
 
@@ -37,22 +39,30 @@ umami: ✓
 * `1 lžíce` Citronové šťávy
 * `1 lžička` Sušeného česneku (koření)
 * `1 lžička` Chilli papriky (koření)
-* `Podle chuti` Sůl, pepř, tabasco
+* `dle chuti` Sůl, pepř, tabasco
 
 ## **Ingredience na omáčku**
 
 ---
 
 * `200g` Jasmínové dlouhozrnné rýže
+* `400 g` vody
+* `špetka` soli
 
-> .
+> Vařte vodu do dosažení bodu varu, přidejte špetku soli. Poté vsypte rýži, zapokličkujte a vařte 17 minut na nejmenším plameni.
+
+> Pro nejlepší výsledky použijte den starou rýži.
 
 ---
 
 * `600g` Mletého hovězího masa
-* Sůl, pepř, gyros koření, sušený česnek, chilli paprika
+* `dle chuti` Gyros koření
+* `špetka` Sušeného česneku
+* `špetka` Chilli
 
-> Na pánvi rozehřej trochu oleje a na střední teplotu orestuj mleté maso. Přidej koření – sůl, pepř, sušený česnek, chilli papriku a gyros koření. Restuj, dokud není maso pěkně hnědé a propečené.
+> Na pánvi rozehřej trochu oleje a na střední teplotu orestuj mleté maso. Přidej koření.
+
+> Restujte, dokud není maso pěkně hnědé a propečené.
 
 ---
 
@@ -64,15 +74,17 @@ umami: ✓
 * `1 lžička` Chilli papriky
 * `Podle chuti` Tabasco, sůl, pepř
 
-> V misce smíchej jogurt, majonézu, tatarskou omáčku, citronovou šťávu, sušený česnek a chilli papriku. Dochut' solí, pepřem a tabaskem podle chuti.
+> V misce vše smíchejte. Dochuťte solí, pepřem a tabaskem podle chuti.
 
 ---
 
 * `6 ks` Rajčatová tortilla
 * `6 plátků` Sýru (Gouda nebo Cheddar)
 
-> Na každou tortillu dej vrstvu omáčky a uvařené rýže, hovězí maso a nakonec plátek sýra. Zabal burrito a opeč ho na stejné pánvi z obou stran, dokud není tortilla zlatavá a křupavá.
+> Na každou tortillu dejte vrstvu omáčky a uvařené rýže, hovězí maso a nakonec plátek sýra. 
+
+> Zabalte burrito a opečte ho na stejné pánvi z obou stran, dokud není tortilla zlatavá a křupavá.
 
 ---
 
-> Užij si chutné burrito, které si můžeš připravit předem a zamrazit pro pozdější použití!
+> Užijte si chutné burrito, které si můžete připravit předem a zamrazit pro pozdější použití!
