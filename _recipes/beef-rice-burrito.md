@@ -72,7 +72,7 @@ umami: ✓
 * `1 lžíce` Citronové šťávy
 * `1 lžička` Sušeného česneku
 * `1 lžička` Chilli papriky
-* `Podle chuti` Tabasco, sůl, pepř
+* `Dle chuti` Tabasco, sůl, pepř
 
 > V misce vše smíchejte. Dochuťte solí, pepřem a tabaskem podle chuti.
 
